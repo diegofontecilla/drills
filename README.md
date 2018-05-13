@@ -4,14 +4,16 @@ Horribly boring drills that will reduce typing overhead when programming.
 
 > You see, if you can’t whiz through the easy stuff at 100 m.p.h., you’re never gonna get the advanced stuff. [_Joel Spolsky_](https://www.joelonsoftware.com/2006/10/25/the-guerrilla-guide-to-interviewing-version-30/)
 
+There's a leaderboard for the drills [here](https://calm-shore-15377.herokuapp.com/). Try them and see how you do!
+
 ## Sections
 
 1. [Assignment](./assignment/README.md).
-2. Functions.
-3. Classes.
-4. Arrays.
-5. Hashes.
-6. Problems.
+2. Functions. :construction:
+3. Classes. :construction:
+4. Arrays. :construction:
+5. Hashes. :construction:
+6. Problems. :construction:
 
 ## About
 
