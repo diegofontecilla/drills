@@ -6,7 +6,7 @@ Horribly boring drills that will reduce typing overhead when programming.
 
 ## Sections
 
-1. Assignment.
+1. [Assignment](./assignment/README.md).
 2. Functions.
 3. Classes.
 4. Arrays.
