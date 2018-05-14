@@ -1,6 +1,6 @@
 # Run this file to start the drill.
 
-require '../lib/quiz'
+require_relative '../lib/quiz.rb'
 
 VARIABLES_AND_ASSIGNMENTS = [
   ["one",      1,  "integer"],
