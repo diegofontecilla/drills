@@ -20,6 +20,8 @@ In the assignment drills, you'll set up and assign basic instances of the follow
 
 ### Getting started
 
-Run the drill with `ruby drill.rb` from the command-line.
+Go back to the root directory, and run the drill using `./start`.
+
+If you run the drill using `ruby drill.rb` from here, it won't post your score to the leaderboard :).
 
 > You have to get the indentation and spacing right to get the right answer.
