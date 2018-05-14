@@ -15,6 +15,14 @@ There's a leaderboard for the drills [here](https://calm-shore-15377.herokuapp.c
 5. Hashes. :construction:
 6. Problems. :construction:
 
+## Getting Started
+
+Run the following from the command line:
+
+```
+./start
+```
+
 ## About
 
 When we program, we're spending 99% of our headspace thinking about how to solve a problem. These drills aren't like that: there are no problems. They're like musical instrument scales: getting common syntax features under your fingers (or other input method) as quickly as possible, so you don't have to spend any brainpower thinking about how to write this function or make a class with that instance variable.
